@@ -1,0 +1,1 @@
+webpackJsonp([3],{wUZA:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n("bYoP"),o=(r.a,{data:function(){return{}},methods:{},components:{Footer:r.a}}),u={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("router-view")],1)},staticRenderFns:[]},s=n("C7Lr")(o,u,!1,null,null,null);t.default=s.exports}});
